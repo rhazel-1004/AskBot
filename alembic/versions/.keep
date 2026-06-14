@@ -1,0 +1,4 @@
+# Alembic revision scripts live here. Generate one with:
+#   alembic revision --autogenerate -m "describe change"
+# then apply it with:
+#   alembic upgrade head
