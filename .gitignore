@@ -42,7 +42,6 @@ database/*.sqlite3
 # IDE files
 .idea/
 .vscode/
-.claude/settings.local.json
 *.swp
 *.swo
 *~
